@@ -1,0 +1,7 @@
+requests
+ccxt
+asyncio                        # 异步编程支持（Python内置）
+python-dotenv
+pandas
+numpy
+aiohttp
