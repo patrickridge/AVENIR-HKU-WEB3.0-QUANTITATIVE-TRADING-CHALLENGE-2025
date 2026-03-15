@@ -1,6 +1,6 @@
 # Avenir–HKU Quantitative Trading Challenge 2025 — Team S1mple
 
-> **Top 10 Finalist · +15.20% Return · 3rd in Returns**
+> **Top 10 Finalist · +15.20% Return · 3rd in Returns · 8th Overall**
 >
 > Patrick Ridge (University of St Andrews) · Anthony Grishin (Imperial College London) · George Gui (Imperial College London)
 
@@ -33,8 +33,8 @@ The Avenir–HKU Quantitative Trading Challenge 2025 was a two-round quant compe
 |--------------|----------------|--------|
 | Final NAV    | 11,520.38 USDT | —      |
 | Total Return | **+15.20%**    | **3rd** |
-| Sharpe Ratio | —              | 10th   |
-| **Overall**  |                | **10th / ~30 teams** |
+| Sharpe Ratio | —              | 8th    |
+| **Overall**  |                | **8th / 18 teams** |
 
 ### Leaderboard (Final)
 
