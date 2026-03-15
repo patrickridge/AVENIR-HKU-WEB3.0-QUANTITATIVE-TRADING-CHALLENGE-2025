@@ -34,7 +34,7 @@ The Avenir–HKU Quantitative Trading Challenge 2025 was a two-round quant compe
 | Final NAV    | 11,520.38 USDT | —      |
 | Total Return | **+15.20%**    | **3rd** |
 | Sharpe Ratio | —              | 8th    |
-| **Overall**  |                | **8th / ~20 teams** |
+| **Overall**  |                | **8th / 20 teams** |
 
 ### Leaderboard (Final)
 
